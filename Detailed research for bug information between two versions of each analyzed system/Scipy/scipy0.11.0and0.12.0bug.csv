@@ -1,0 +1,10 @@
+scipy/special/basic.py,2
+scipy/signal/tests/test_signaltools.py,2
+scipy/io/wavfile.py,1
+scipy/special/tests/test_basic.py,15
+scipy/stats/mstats_basic.py,1
+scipy/io/dumbdbm_patched.py,1
+scipy/weave/inline_tools.py,1
+scipy/stats/tests/test_mstats_basic.py,1
+scipy/integrate/quadrature.py,1
+,25

@@ -1,0 +1,7 @@
+numpy/core/tests/test_multiarray.py,2
+numpy/linalg/linalg.py,1
+numpy/core/tests/test_errstate.py,1
+numpy/core/tests/test_umath_complex.py,1
+numpy/core/tests/test_numeric.py,1
+numpy/linalg/tests/test_linalg.py,1
+numpy/core/tests/test_half.py,1

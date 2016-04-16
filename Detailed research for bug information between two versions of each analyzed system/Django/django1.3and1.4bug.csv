@@ -1,0 +1,7 @@
+django/core/management/commands/shell.py,1
+tests/regressiontests/forms/models.py,1
+tests/admin_checks/tests.py,1
+django/contrib/admin/checks.py,1
+django/utils/autoreload.py,2
+django/middleware/admin.py,1
+django/contrib/admin/sites.py,1
